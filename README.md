@@ -23,11 +23,12 @@
 
 Результаты выполнения лабораторных работ оформляются в виде проектов и размещаются в отдельных директориях внутри каталога [projects](/projects) (также см. [указания по выполнению лабораторных работ](/tasks/README.md)). В качестве названия директории испоьзуется название соответствующего проекта, которое необходимо указывать в соответствии с конвенцией `kebab-case`. Соответствие между названием проекта и ФИО студента задается в следующей таблице:
 
-| Project name | Student name |
-| --- | --- |
-| [emoji-labeller](/projects/emoji-labeller) | Иванов Иван Иванович |
-| [mirik](/projects/mirik) | Огурцов Андрей Юрьевич |
-| [mansurov-project](/projects/mansurov-project) | Мансуров Юрий Юрьевич |
-| [cake-crusher](/projects/cake-crusher) | Черноусов Евгений Александрович |
-| [petrenko-lab](/projects/petrenko-lab) | Петренко Дмитрий Андреевич |
-| [didur-nlp](/projects/didur-nlp) | Дидур Давид Дмитриевич |
+| Project name                                   | Student name                    |
+|------------------------------------------------|---------------------------------|
+| [emoji-labeller](/projects/emoji-labeller)     | Иванов Иван Иванович            |
+| [mirik](/projects/mirik)                       | Огурцов Андрей Юрьевич          |
+| [mansurov-project](/projects/mansurov-project) | Мансуров Юрий Юрьевич           |
+| [cake-crusher](/projects/cake-crusher)         | Черноусов Евгений Александрович |
+| [petrenko-lab](/projects/petrenko-lab)         | Петренко Дмитрий Андреевич      |
+| [didur-nlp](/projects/didur-nlp)               | Дидур Давид Дмитриевич          |
+| [daniilprohorov](/projects/daniilprohorov)     | Прохоров Даниил Андреевич       |
